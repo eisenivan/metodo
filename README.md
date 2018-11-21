@@ -4,6 +4,13 @@ Metodo is a command-line utility that exists to help you track your time.
 
 # Installation
 
+## with npm
+
+```
+npm i -g metado
+```
+
+## locally
 ```bash
 # clone the repo
 git clone https://github.com/eisenivan/metodo.git
@@ -48,3 +55,11 @@ metodo delete
 # archive all of your finished tasks to clear out the noise
 metodo archive
 ```
+
+# Compatibility
+
+*Tested with node >9.8.0*
+
+# License
+
+MIT
