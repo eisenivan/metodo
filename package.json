@@ -4,7 +4,7 @@
   "bin": {
     "metodo": "./lib/metodo.js"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "metodo.js",
   "license": "MIT",
   "dependencies": {
