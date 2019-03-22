@@ -54,6 +54,9 @@ metodo delete
 
 # archive all of your finished tasks to clear out the noise
 metodo archive
+
+# get a full list of all commands and shortcuts
+metodo --help
 ```
 
 # Compatibility
