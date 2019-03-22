@@ -7,7 +7,7 @@ Metodo is a command-line utility that exists to help you track your time.
 ## with npm
 
 ```
-npm i -g metado
+npm i -g metodo
 ```
 
 ## locally
